@@ -25,7 +25,7 @@ Make sure you have Node.js & npm or yarn installed.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/smart-student-id-generator.git
+   git clone https://github.com/sujeettx/smart-student-id-generator.git
    cd smart-student-id-generator
    ```
 
@@ -93,9 +93,6 @@ src/
 - 📡 Data Persistence using localStorage
 - 🛠 Tailwind-powered styling
 - 🚀 Clean Routing via React Router
-
-## 📸 Preview Screenshot
-*(Add a screenshot here when you have one)*
 
 ## 🙌 Author
 
