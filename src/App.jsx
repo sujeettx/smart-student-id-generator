@@ -1,7 +1,7 @@
-import StudentForm from "./components/StudentForm"
+import StudentForm from "./components/StudentForm";
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import IDCardPreview from "./components/IDCardPreview";
-import TemplateSwitcher from "./components/TemplateSwitcher";
+// import TemplateSwitcher from "./components/TemplateSwitcher";
 
 import React from 'react'
 
